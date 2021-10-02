@@ -1,0 +1,64 @@
+body{
+    background:whitesmoke;
+}
+h1{
+font-size: 50px;
+}
+p{
+    font-size: 38px;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+main{
+    background: chartreuse;
+    
+}
+#questions{
+    display: flex;
+    flex-direction: wrap;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+#startButton{
+    height: 40px;
+    background:darkblue;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#userAnswer{
+    background: chocolate;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+#userAnswer input{
+    width: 50%;
+    font-size: 38px;
+}
+#timer{
+    background:crimson;
+}
+#timer span{
+    font-size: 50px;
+}
+#answer{
+background: crimson;
+}
+#answer span{
+font-size: 50px;
+}
+#Button-hidden{
+    visibility: hidden;
+}
+#Button-visible{
+}
