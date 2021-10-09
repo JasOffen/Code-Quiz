@@ -6,6 +6,7 @@ font-size: 50px;
 }
 p{
     font-size: 38px;
+    text-align: center;
 }
 header{
     display: flex;
@@ -58,6 +59,9 @@ background: crimson;
 font-size: 50px;
 }
 #Button-hidden{
+    visibility: hidden;
+}
+#formHidden{
     visibility: hidden;
 }
 #Button-visible{
