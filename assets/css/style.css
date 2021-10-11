@@ -16,7 +16,7 @@ header{
     align-items: center;
 }
 main{
-    background: chartreuse;
+    background: whitesmoke;
     
 }
 #questions{
@@ -28,14 +28,14 @@ main{
 }
 #startButton{
     height: 40px;
-    background:darkblue;
+    background:whitesmoke;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
 }
 #userAnswer{
-    background: chocolate;
+    background: whitesmoke;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -47,13 +47,13 @@ main{
     font-size: 38px;
 }
 #timer{
-    background:crimson;
+    background:whitesmoke;
 }
 #timer span{
     font-size: 50px;
 }
 #answer{
-background: crimson;
+background: whitesmoke;
 }
 #answer span{
 font-size: 50px;
